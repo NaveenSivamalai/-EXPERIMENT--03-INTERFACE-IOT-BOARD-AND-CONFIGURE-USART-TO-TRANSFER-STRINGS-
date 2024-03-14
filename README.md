@@ -65,8 +65,10 @@ int main(void)
   MX_USART2_UART_Init();
   while (1)
   {
-	  printf("SRINITHI V\n");
-	  HAL_Delay(500);
+      printf("saveetha university\n");
+      printf("naveen s\n ");
+      printf("cse(iot)\n");
+      HAL_Delay(1000);
   }
 }
 PUTCHAR_PROTOTYPE
